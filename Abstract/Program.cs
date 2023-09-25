@@ -5,6 +5,7 @@ namespace Abstract
     class Program
     {
 
+
         //public abstract class Animal
         //{
 
